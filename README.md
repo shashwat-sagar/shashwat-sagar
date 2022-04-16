@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @badass1901
-- 👀 I’m interested in Cybersecurity with the help of little programming
+- 👋 Hi, I’m Shashwat Sagar aka badass1901
+- 👀 I’m a Full-STACK Developer,
+     diving deep into the world of spider's web 🕸️
 - 🌱 I’m currently learning as Cybersecurity Researcher
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://shashwatsagar.netlify.app
