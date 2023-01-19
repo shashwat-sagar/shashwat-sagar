@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **any web development projects**
 
-- 👨‍💻 All of my projects are available at [https://shashwatsagar.netlify.app](https://shashwatsagar.netlify.app)
+- 👨‍💻 All of my projects are available at [https://shashwatsagar.tech](https://shashwatsagar.tech)
 
 - 💬 Ask me about **react, express, sass**
 
