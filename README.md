@@ -1,6 +1,6 @@
 
- 
- <h1 align="center">Hi 👋, I'm Shashwat Sagar</h1>
+ <style>.fn{color: red;}</style>
+<h1 class=".fn" align="center">Hi 👋, I'm Shashwat Sagar</h1>
 <h3 align="center">Full Stack MERN/MEVN Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badass1901&label=Profile%20views&color=0e75b6&style=flat" alt="badass1901" /> </p>
