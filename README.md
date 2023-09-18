@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=badass1901" alt="badass1901" /></a> </p>
 
-- 🌱 I’m currently learning **MERN stack, AWS, Dart**
+- 🌱 I’m currently learning **MERN stack, DevOps**
 
-- 👯 I’m looking to collaborate on **any web development projects**
+- 👯 I’m looking to collaborate on **any software development projects**
 
 - 👨‍💻 All of my projects are available at [https://shashwatsagar.tech](https://shashwatsagar.tech)
 
