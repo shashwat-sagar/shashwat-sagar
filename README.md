@@ -8,6 +8,7 @@
   🔭 I’m currently working on MERN Stack Projects and also polishing my skills in Problem Solving<br>👯 I’m looking to collaborate on Full stack projects<br>🤝 I’m looking for help with Docker<br>🌱 I’m currently learning Microservices<br>💬 Ask me about MERN STACK & JAVA DSA<br>⚡ Fun fact "I also love to train students."
 
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=badass1901&label=Profile%20views&color=0e75b6&style=flat" alt="badass1901" /> </p>
 
 
 ## 🌐 Socials:
